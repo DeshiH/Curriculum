@@ -1,0 +1,191 @@
+* {
+    margin: 1px;
+    padding: 0px;
+}
+
+.general {
+    margin: auto;
+    margin-top: 50px;
+    width: 1100px;
+    height: 900px;
+    background-color: black;
+}
+
+.body {
+    width: 490px;
+    height: 900px;
+    background-color: rgb(95, 97, 95);
+}
+
+.informacion {
+    float: right;
+    width: 600px;
+    height: 900px;
+    background-color: rgb(95, 97, 95);
+}
+
+img {
+    margin-top: 20px;
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+}
+
+.contacto {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.number {
+    margin-left: 5px;
+}
+
+.correo {
+    margin-left: 5px;
+}
+
+.direccion {
+    margin-left: 5px;
+}
+
+.material-symbols-outlined {
+    display: grid;
+    justify-content: space-between;
+    grid-template-rows: 12px 12px 12px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.perfil {
+    margin-top: 40px;
+    margin-left: 5px;
+}
+
+.perfil1 {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.experiencia {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.jafra {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.asistente {
+    margin-top: 5px;
+}
+
+.ventas {
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.abogado {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.abogado h3,
+.twitch h3,
+.jafra h3,
+.escuela h3 {
+    font-weight: normal;
+}
+
+.cisco h4,
+.uno h4,
+.dos h4,
+.tres h4,
+.cuatro h4,
+.cinco h5
+,.seish4 {
+    font-weight: normal;
+}
+
+.dictado {
+    margin-top: 5px;
+    margin-left: 110px;
+}
+
+.twitch {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.afiliado {
+    margin-top: 5px;
+    margin-left: 60px;
+}
+
+.objetivos {
+    margin-top: 10px;
+    margin-left: 110px;
+}
+
+.formacion {
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.escuela {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.titulo {
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+.titulos {
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.cisco {
+    margin-top: 10px;
+    margin-left: 110px;
+}
+
+.uno {
+    margin-top: 10px;
+}
+
+.dos {
+    margin-top: 10px;
+}
+
+.tres {
+    margin-top: 10px;
+}
+
+.cuatro {
+    margin-top: 10px;
+}
+
+.cinco {
+    margin-top: 10px;
+}
+
+.seis{
+    margin-top: 10px;
+}
+.laboral {
+    margin-top: 50px;
+}
+
+.bajan {
+    margin-top: 10px;
+}
+
+
+.edad{
+    margin-top: 10px;
+}
